@@ -28,6 +28,13 @@ brew install cclaw
 
 Or download an archive from [Releases](https://github.com/chubbyclaw-com/cclaw/releases).
 
+## Updates
+
+Installed with the script? cclaw keeps itself current: each start checks the latest release in the background and the next start runs it — `cclaw update` does it immediately.
+
+- Homebrew: `brew upgrade --cask cclaw`
+- npx / npm: reinstall, or `npm i -g @chubbyclaw/cclaw@latest`
+
 ## Get started
 
 ```sh
