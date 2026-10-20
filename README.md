@@ -15,8 +15,8 @@ curl -fsSL https://chubbyclaw.com/install.sh | sh
 **npm**
 
 ```sh
-npx cclaw newagent      # try it without installing
-npm i -g cclaw          # or install it
+npx @chubbyclaw/cclaw newagent      # try it without installing
+npm i -g @chubbyclaw/cclaw          # or install it
 ```
 
 **Homebrew**
