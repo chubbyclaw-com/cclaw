@@ -1,6 +1,6 @@
 # cclaw
 
-Connect a coding agent on your computer to [ChubbyClaw](https://chubbyclaw.com): Claude Code, Codex, DeepSeek Harness, Gemini CLI, GitHub Copilot, Cursor or OpenCode.
+Connect a coding agent on your computer to [ChubbyClaw](https://chubbyclaw.com): Claude Code, Codex, DeepSeek Harness, Gemini CLI, GitHub Copilot, Cursor or OpenCode ([what works with each](SUPPORTED-AGENTS.md)).
 
 This repository only hosts release downloads; the source is not public.
 
