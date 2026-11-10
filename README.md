@@ -1,6 +1,6 @@
 # cclaw
 
-Connect Claude Code or Codex on your computer to [ChubbyClaw](https://chubbyclaw.com).
+Connect a coding agent on your computer to [ChubbyClaw](https://chubbyclaw.com): Claude Code, Codex, DeepSeek Harness, Gemini CLI, GitHub Copilot, Cursor or OpenCode.
 
 This repository only hosts release downloads; the source is not public.
 
@@ -41,6 +41,10 @@ Installed with the script? cclaw keeps itself current: each start checks the lat
 cclaw newagent   # register this computer
 cclaw start      # keep it online
 ```
+
+## Supported agents
+
+See [SUPPORTED-AGENTS.md](SUPPORTED-AGENTS.md) for what each agent needs and what works with it.
 
 ## Supported platforms
 
